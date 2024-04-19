@@ -15,7 +15,6 @@ Initially you need to create a Kubernetes secret that contains the API token for
 
 The service account must have one of the following roles:
 
-- Org Admin
 - Group Admin
 - Custom Role with "AppRisk edit" permission
 
